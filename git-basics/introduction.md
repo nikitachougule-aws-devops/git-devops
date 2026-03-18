@@ -1,4 +1,5 @@
-# Git
+
+#   Git 
 
 Git is a free and open-source tool used to track changes in code.  
 It helps developers understand:
@@ -55,4 +56,3 @@ This means:
 - **Git** = tool to track and manage code changes  
 - **CVCS** = one central copy (riskier)  
 - **DVCS (Git)** = multiple full copies (safer and faster)
-
