@@ -1,0 +1,58 @@
+# Git
+
+Git is a free and open-source tool used to track changes in code.  
+It helps developers understand:
+
+- **Who** made the changes  
+- **What** changes were made (files and code)  
+- **When** the changes happened  
+
+Every change is saved as a version, so if something goes wrong, you can easily go back to an earlier version of your code.
+
+---
+
+## 🔄 Types of Version Control Systems
+
+There are mainly two types of VCS:
+
+---
+
+### 1. 🏢 Centralized Version Control System (CVCS)
+
+All the code is stored in one central server.
+
+Developers:
+
+- Push their code to the server  
+- Pull code from the server  
+
+####  Problems:
+
+- You need internet access to work  
+- If the server crashes and there’s no backup → all data can be lost  
+
+---
+
+### 2. 🌐 Distributed Version Control System (DVCS) — like Git
+
+There is a central server, but every developer also has a full copy of the project.
+
+This means:
+
+- You can work offline  
+- Every system has the complete history of the project  
+
+#### ✅ Advantages:
+
+- No data loss (everyone has a backup)  
+- Faster operations (since most work is local)  
+- More flexibility for teams  
+
+---
+
+## 🎯 Simple Summary
+
+- **Git** = tool to track and manage code changes  
+- **CVCS** = one central copy (riskier)  
+- **DVCS (Git)** = multiple full copies (safer and faster)
+
